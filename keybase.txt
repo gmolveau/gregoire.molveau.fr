@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gmolveau
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gregoire.molveau.fr
+  * I am gmolveau (https://keybase.io/gmolveau) on keybase.
+  * I have a public key ASA8jyP2gz-lqw5SoEn5bs3LiV6UBYmA_MqfVfa4QYQ8sAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203c8f23f6833fa5ab0e52a049f96ecdcb895e94058980fcca9f55f6b841843cb00a",
+      "host": "keybase.io",
+      "kid": "01203c8f23f6833fa5ab0e52a049f96ecdcb895e94058980fcca9f55f6b841843cb00a",
+      "uid": "1ff69d2176a7cbcb692d75a900501819",
+      "username": "gmolveau"
+    },
+    "merkle_root": {
+      "ctime": 1584189051,
+      "hash": "077ba5e28ac8b505b39d9ca74928785fdd4542050ffd79b2403c1313f7a03cf1ff0f0060a53dad55faae2ba5ea4d8e9c8b8c300c484bdbf2aecd423587be1734",
+      "hash_meta": "a8955858c4ddcc6aeee46985c3651c99a602fd2732f1ab2157e626c7cb70b7fd",
+      "seqno": 15368304
+    },
+    "service": {
+      "entropy": "Bu0NxVFWFIoFgpfnGQqI19TW",
+      "hostname": "gregoire.molveau.fr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1584189058,
+  "expire_in": 504576000,
+  "prev": "1df3dd57b50c5f3a9be9729dfea346d991103d9ece2154d65cbbeedc9a7fd350",
+  "seqno": 40,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPI8j9oM/pasOUqBJ+W7Ny4lelAWJgPzKn1X2uEGEPLAKp3BheWxvYWTESpcCKMQgHfPdV7UMXzqb6XKd/qNG2ZEQPZ7OIVTWXLvu3Jp/01DEIND0A5GNFjxeck0ZtTjk7f62KYgzOMtWLfpAbSbfUFu4AgHCo3NpZ8RArVVpCRKx8gBoLR0wr7zioy4H6jXLC2MQSQxmSi3Dbfplc/te2mihDdei4kpuLPJ6hPSl+CeSd0zE1vRPET31CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEnmGjgcB0fAwwqG//v7SrQ54fzjyg/rz4WfXI8Xa2s+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gmolveau
+
+==================================================================
